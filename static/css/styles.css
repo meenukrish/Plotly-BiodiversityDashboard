@@ -1,0 +1,27 @@
+
+/* Add background image to Jumbotron */
+
+.jumbotron{
+    margin-top: 20px;
+    background-image: url("../images/bacteria_by_filterforgedotcom.jpg");
+    background-size: cover;
+
+}
+
+#heading
+{
+    color:white; 
+} 
+
+.text-white{
+    color: white;
+}
+
+p{
+    color:white;
+}
+
+#selDataset
+{
+    color: black;
+}
